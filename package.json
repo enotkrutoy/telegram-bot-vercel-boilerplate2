@@ -1,10 +1,10 @@
 {
-  "name": "telegram-bot-vercel-boilerplate",
+  "name": "telegram-bot-vercel-boilerplate2",
   "version": "1.1.0",
   "description": "Telegram Bot Vercel Boilerplate",
   "main": "src/index.ts",
   "author": "Mark Pavlov (https://github.com/sollidy)",
-  "homepage": "https://github.com/sollidy/telegram-bot-vercel-boilerplate",
+  "homepage": "https://github.com/enotkrutoy/telegram-bot-vercel-boilerplate2",
   "dependencies": {
     "@vercel/node": "^3.2.7",
     "dotenv-cli": "^7.4.2",
